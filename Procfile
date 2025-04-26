@@ -1,1 +1,1 @@
-python temapp.py
+web: python temapp.py
